@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Felipe Ilek
 
 🚀 **Software Engineer Intern | Python, Javascript & C Specialist**  
 🇧🇷 Brazil
