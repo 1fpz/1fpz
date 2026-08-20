@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @1fpz
+- 👋 Hi, I’m Felipe Ilek
 - 👀 I’m interested in development
 - 🌱 I’m currently learning how to make cheats
-- 💞️ I’m looking to collaborate on fivem and fortnite
+- 💞️ I’m looking to collaborate on big techs
 - 📫 How to reach me ...
 
 <!---
